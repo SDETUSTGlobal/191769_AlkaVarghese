@@ -1,0 +1,37 @@
+/*Step definition for view all products page*/
+
+package Table;  
+import org.openqa.selenium.By;  
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;  
+import cucumber.annotation.en.Given;  
+import cucumber.annotation.en.Then;  
+import cucumber.annotation.en.When; 
+   
+public class WebOrders {
+WebDriver driver= null;
+  @Given("^I am on List of all orders page$")  
+  public void goToListofallOrders() {  
+  driver= new ChromeDriver();
+  driver.navigate().to("http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/Default.aspx");
+  
+  }  
+     
+  @When("^I click on view all products$")  
+  public void viewAll(){  
+   
+  driver.findElement(By.linkText("View all products")).click();   
+  }  
+     
+  @Then("^all products list is displayed$")  
+  public void productsList() { 
+     if(driver.getTitle().equalsIgnoreCase("List of Products")){  
+      System.out.println("Test Pass");  
+   } else {  
+      System.out.println("Test Failed");  
+   }  
+    
+}
+   driver.close(); 
+
+}
