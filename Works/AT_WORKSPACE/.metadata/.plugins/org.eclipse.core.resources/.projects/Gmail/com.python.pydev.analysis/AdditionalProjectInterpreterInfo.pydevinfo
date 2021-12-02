@@ -1,0 +1,18 @@
+-- VERSION_5
+-- START DISKCACHE_3
+E:\AT_WORKSPACE\.metadata\.plugins\org.eclipse.core.resources\.projects\Gmail\com.python.pydev.analysis\v2_indexcache
+eggmail.__init__|1637737714386123900|E:\AT_WORKSPACE\Gmail\eggmail\__init__.py
+eggmail.mail|1637738048410579100|E:\AT_WORKSPACE\Gmail\eggmail\mail.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=eggmail.mail
+1=E:\AT_WORKSPACE\Gmail\eggmail\mail.py
+-- END DICTIONARY
+-- START TREE 1
+1
+dri|1|driver!1^6#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

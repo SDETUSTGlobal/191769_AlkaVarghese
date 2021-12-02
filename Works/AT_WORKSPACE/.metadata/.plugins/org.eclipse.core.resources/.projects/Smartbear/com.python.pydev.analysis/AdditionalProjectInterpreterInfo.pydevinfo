@@ -1,0 +1,34 @@
+-- VERSION_5
+-- START DISKCACHE_3
+E:\AT_WORKSPACE\.metadata\.plugins\org.eclipse.core.resources\.projects\Smartbear\com.python.pydev.analysis\v2_indexcache
+smart.Project1|1638250877075109800|E:\AT_WORKSPACE\Smartbear\smart\Project1.py
+smart.__init__|1637737188226468500|E:\AT_WORKSPACE\Smartbear\smart\__init__.py
+smart.Project3|1638118599613488100|E:\AT_WORKSPACE\Smartbear\smart\Project3.py
+smart.Project2|1638118352355701000|E:\AT_WORKSPACE\Smartbear\smart\Project2.py
+smart.Project5|1637814237780027500|E:\AT_WORKSPACE\Smartbear\smart\Project5.py
+smart.Project4|1637814177855517900|E:\AT_WORKSPACE\Smartbear\smart\Project4.py
+smart.automation|1638251418620404600|E:\AT_WORKSPACE\Smartbear\smart\automation.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+7=E:\AT_WORKSPACE\Smartbear\smart\Project1.py
+5=E:\AT_WORKSPACE\Smartbear\smart\Project2.py
+3=E:\AT_WORKSPACE\Smartbear\smart\automation.py
+8=smart.Project1
+2=smart.Project3
+6=smart.Project2
+12=smart.Project5
+10=smart.Project4
+4=smart.automation
+9=E:\AT_WORKSPACE\Smartbear\smart\Project4.py
+1=E:\AT_WORKSPACE\Smartbear\smart\Project3.py
+11=E:\AT_WORKSPACE\Smartbear\smart\Project5.py
+-- END DICTIONARY
+-- START TREE 1
+2
+dri|6|driver!1^6#1*19@driver!3^7#1*35@driver!5^6#1*51@driver!7^7#1*67@driver!9^6#1*83@driver!11^6#1*99@
+dro|1|dropdown!7^46#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
